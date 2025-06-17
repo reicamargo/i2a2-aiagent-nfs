@@ -18,8 +18,8 @@ Sistema de IA para análise de dados de notas fiscais com arquitetura modular.
 ### 📁 Estrutura e módulos da solução
 
 ```
-ai-agent-csv-python/
-├── appAgent.py          # API Flask principal
+i2a2-aiagent-nfs/
+├── app_agent.py          # API Flask principal
 ├── chat.py              # Interface Streamlit para usuários
 ├── config.py            # Gerenciamento de configurações via YAML
 ├── config.yaml          # Arquivo de configuração
@@ -82,7 +82,7 @@ Edite o arquivo `config.yaml` para configurar:
 Execute diretamente o arquivo principal:
 
 ```bash
-python appAgent.py
+python app_agent.py
 ```
 
 O sistema irá:
