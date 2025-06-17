@@ -43,13 +43,13 @@ ai-agent-csv-python/
 Crie um ambiente virtual
 
 ```bash
-python -m venv <nome-do-seu-ambiente>
+python -m venv nome-do-ambiente
 ```
 
 Ative seu ambiente virtual (no mac)
 
 ```bash
-source <nome-do-seu-ambiente>/bin/activate 
+source nome-do-ambiente/bin/activate 
 ```
 
 ou no Windows no cmd
