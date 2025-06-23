@@ -4,14 +4,12 @@ Refatorado para melhor organização e manutenibilidade
 """
 
 import logging
-from typing import Dict, Any, Optional
 from flask import Flask, request, jsonify
 
 # Importar módulos criados
 from config import config
 from database import db_manager
 from ai_processor import ai_processor
-from memory_manager import memory_manager
 from file_processor import unzip_files
 
 # Configurar logging
