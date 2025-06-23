@@ -143,43 +143,6 @@ Processa perguntas sobre os dados de notas fiscais.
 - VALOR_TOTAL
 - ... (outras colunas)
 
-## 🔧 Melhorias Implementadas
-
-### 1. **Modularização**
-
-- Separação clara de responsabilidades
-- Código mais organizado e testável
-- Reutilização de componentes
-
-### 2. **Configuração Centralizada**
-
-- Arquivo YAML para configurações
-- Fácil alteração de parâmetros
-- Configurações por ambiente
-
-### 3. **Gerenciamento de Banco**
-
-- Classe dedicada para operações de banco
-- Índices para melhor performance
-- Tratamento de erros robusto
-
-### 4. **Processamento de IA Melhorado**
-
-- Prompts mais específicos e detalhados
-- Melhor formatação de respostas
-- Tratamento de diferentes tipos de resultados
-
-### 5. **Logging e Monitoramento**
-
-- Logs detalhados para debugging
-- Tratamento de erros aprimorado
-
-### 6. **Gerenciamento de Memória**
-
-- Memória por cliente
-- Limpeza seletiva de memórias
-- Suporte a múltiplos usuários
-
 
 ## 🎯 Exemplos de Perguntas
 
